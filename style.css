@@ -1,0 +1,22 @@
+/* *{ 
+    border: solid 1px;
+    border-color: red;
+} */
+.text-center{
+    align-content: center;
+}
+
+.col{
+    background-color: lightgrey;
+}
+.row-12{
+    text-align: center;
+}
+
+.col-12{
+    background-color: white;
+}
+
+.card-lt-grey, .card-lt-grey .col-12{
+    background-color: lightgrey;
+}
